@@ -34,7 +34,7 @@ The output is a fully interactive HTML file — rotate the scene, zoom in and ou
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/alessandrooliverio/solarsystem.git
+git clone https://github.com/cocco-drillo/solarsystem.git
 cd solarsystem
 
 # 2. Create a virtual environment
@@ -136,4 +136,4 @@ MIT — see [LICENSE](LICENSE).
 
 ## Author
 
-Alessandro Oliverio — [github.com/alessandrooliverio](https://github.com/alessandrooliverio)
+Alessandro Oliverio - drillo — [github.com/cocco-drillo](https://github.com/cocco-drillo)

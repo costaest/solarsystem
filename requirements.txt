@@ -1,0 +1,5 @@
+astropy>=6.0
+numpy>=1.26
+plotly>=5.20
+rich>=13.0
+jplephem>=2.0

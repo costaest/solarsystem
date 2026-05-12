@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Output files (generated, not tracked)
+orrery.html
+*.html
+
+# Astropy cache (ephemeris downloads)
+~/.astropy/
+
+# IDE
+.vscode/
+.idea/
