@@ -10,9 +10,7 @@ An interactive 3D orrery of the solar system with real planetary positions from 
 
 ## Demo
 
-The output is a fully interactive HTML file — rotate the scene, zoom in and out, and hover over any planet to see its name, distance from the Sun, and the current date. No server or install required for the viewer.
-
-> 📸 Screenshot / GIF coming soon
+The output is a fully interactive HTML file — rotate the scene, zoom in and out, and hover over any planet to see its name, distance from the Sun, and the current date. No server or install required for the viewer. 
 
 ---
 
@@ -34,7 +32,7 @@ The output is a fully interactive HTML file — rotate the scene, zoom in and ou
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/cocco-drillo/solarsystem.git
+git clone https://github.com/costaest/solarsystem.git
 cd solarsystem
 
 # 2. Create a virtual environment
@@ -136,7 +134,7 @@ MIT — see [LICENSE](LICENSE).
 
 ## Author
 
-Alessandro Oliverio - drillo — [github.com/cocco-drillo](https://github.com/cocco-drillo)
+Alessandro Oliverio - drillo — [github.com/costaest](https://github.com/costaest)
 
 
 **********"inter sidera versor"**********
